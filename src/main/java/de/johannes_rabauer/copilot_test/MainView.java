@@ -1,4 +1,4 @@
-package com.example.socialcoding;
+package de.johannes_rabauer.copilot_test;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;

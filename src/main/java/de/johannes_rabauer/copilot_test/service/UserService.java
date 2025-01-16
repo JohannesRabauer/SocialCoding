@@ -1,7 +1,7 @@
-package com.example.socialcoding.service;
+package de.johannes_rabauer.copilot_test.service;
 
-import com.example.socialcoding.model.User;
-import com.example.socialcoding.repository.UserRepository;
+import de.johannes_rabauer.copilot_test.model.User;
+import de.johannes_rabauer.copilot_test.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

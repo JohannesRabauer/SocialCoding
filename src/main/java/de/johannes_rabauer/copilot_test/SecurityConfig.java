@@ -1,4 +1,4 @@
-package com.example.socialcoding;
+package de.johannes_rabauer.copilot_test;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

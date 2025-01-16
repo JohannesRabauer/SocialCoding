@@ -1,6 +1,6 @@
-package com.example.socialcoding.config;
+package de.johannes_rabauer.copilot_test.config;
 
-import com.example.socialcoding.service.UserService;
+import de.johannes_rabauer.copilot_test.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

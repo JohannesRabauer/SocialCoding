@@ -1,4 +1,4 @@
-package com.example.socialcoding.model;
+package de.johannes_rabauer.copilot_test.model;
 
 import javax.persistence.*;
 

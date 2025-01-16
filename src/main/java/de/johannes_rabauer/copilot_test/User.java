@@ -1,4 +1,4 @@
-package com.example.socialcoding;
+package de.johannes_rabauer.copilot_test;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

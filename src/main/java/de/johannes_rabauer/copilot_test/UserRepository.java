@@ -1,6 +1,5 @@
-package com.example.socialcoding.repository;
+package de.johannes_rabauer.copilot_test;
 
-import com.example.socialcoding.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {
